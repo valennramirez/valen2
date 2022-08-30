@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1661873860 source:c:\users\usuario\desktop\listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libListas.h"
+
+1661873884 source:c:\users\usuario\desktop\listas\liblistas.c
+	<stdio.h>
+	<stdlib.h>
+	"libListas.h"
+
+1661873884 c:\users\usuario\desktop\listas\liblistas.h
+
