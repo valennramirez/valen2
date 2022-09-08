@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1662641910 source:d:\trab4\librerias.c
+	<stdio.h>
+	<stdlib.h>
+	"librerias.h"
+
+1662641454 d:\trab4\librerias.h
+
+1662641768 source:d:\trab4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"librerias.h"
+
